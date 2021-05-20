@@ -4,5 +4,9 @@ Repository containing the code used and develloped for the 3DHPSC protein model 
 this project is in constant development for improvements in execution and results.
 
 This project was used as a theme for my master's degree.
+
 For explanations about the algorithm and movement of the protein in the truss please read chapter 3 of the dissertation.
+
 This project use Creative Commons Attribution 4.0 for license.
+
+A code for a developing version of SPEA II is available for evaluation and testing, but it still proves to be computationally infeasible.
